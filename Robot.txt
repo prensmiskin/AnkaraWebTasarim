@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: 
+Allow: /
+
+Sitemap: https://prensmiskin.github.io/glanya/

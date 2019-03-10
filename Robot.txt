@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: 
-Allow: /
+Allow: /https://prensmiskin.github.io/AnkaraWebTasarim/
 
-Sitemap: https://prensmiskin.github.io/glanya/
+Sitemap: https://prensmiskin.github.io/AnkaraWebTasarim/icerik.html

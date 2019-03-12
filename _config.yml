@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Ankara Web Tasarım
+name: Oğuzhan Gümüş
 
 # Short bio or description (displayed in the header)
-description: Ankara Web Tasarım
+description: Oğuzhan Gümüş
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://user-images.githubusercontent.com/40228440/53888206-ef5f7b80-4034-11e9-8288-356bbff95740.png
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: mezbjen
+  twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -87,5 +87,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  
-  
